@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.PatientList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+  text-align: left;
+}
+
+.list-space {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container {
+  background-color: #ccc;
+  border-width: 1px;
+}
